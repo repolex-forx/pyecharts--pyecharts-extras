@@ -1,0 +1,11 @@
+{
+  "org": "pyecharts",
+  "repo": "pyecharts-extras",
+  "versions": [
+    {
+      "commit": "a3a67417aae0a482e81dd78ce9bbbf3d58be5a7b",
+      "tag": "",
+      "parsed_at": "2026-10-28T13:26:45.085788+00:00"
+    }
+  ]
+}
