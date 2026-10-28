@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pyecharts/pyecharts-extras/commit/a3a67417aae0a482e81dd78ce9bbbf3d58be5a7b",
       "git:hexsha": "a3a67417aae0a482e81dd78ce9bbbf3d58be5a7b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pyecharts/pyecharts-extras/commit/049b7e706493131332e4afaf925ca4442386ddd3",
